@@ -49,6 +49,19 @@ skills in a unique manner that creates a lasting impact.
 - **Zustand** – Lightweight state management
 - **Tailwind CSS** – UI styling with NativeWind
   
+## 🎨 UI/UX Design
+
+The entire interface of **Rdye** was meticulously crafted using **Figma**, focusing on a smooth and intuitive ride-booking experience. Every screen—from onboarding to payment—follows a clean, modern, and user-friendly design system.
+
+<p align="center">
+  <a href="https://www.figma.com/design/blwkDHvyKdd9YqdOYNCBY7/Ryde---Uber-Clone-App?node-id=0-1&t=07CMKIVAMcPyv7iO-1" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Figma%20Design-blue?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Link" />
+  </a>
+</p>
+
+> ✨ Built with attention to detail for a seamless user journey on both Android and iOS platforms.
+
+
 
 ## <a name="features">🔋 Features</a>
 
