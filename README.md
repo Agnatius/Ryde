@@ -48,6 +48,8 @@ skills in a unique manner that creates a lasting impact.
 - **Clerk** – Authentication (Email/Google)
 - **Zustand** – Lightweight state management
 - **Tailwind CSS** – UI styling with NativeWind
+
+---
   
 ## 🎨 UI/UX Design
 
@@ -61,7 +63,7 @@ The entire interface of **Rdye** was meticulously crafted using **Figma**, focus
 
 > ✨ Built with attention to detail for a seamless user journey on both Android and iOS platforms.
 
-
+---
 
 ## <a name="features">🔋 Features</a>
 
