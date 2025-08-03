@@ -202,6 +202,3 @@ Feel free to connect with me:
 
 If you liked this project, drop a ⭐ on the repo and share it with others!
 
-
-# Ryde
-# Ryde
